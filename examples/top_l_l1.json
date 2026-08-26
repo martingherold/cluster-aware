@@ -1,0 +1,33 @@
+{
+  "distance_matrix": {
+    "center_count": 2,
+    "client_count": 3,
+    "layout": "center_major",
+    "values": [
+      [
+        0.0,
+        0.4,
+        2.5
+      ],
+      [
+        3.0,
+        0.0,
+        0.5
+      ]
+    ]
+  },
+  "format": "cluster-aware-instance",
+  "id": "three-client-top-2-l1",
+  "inner_norm": {
+    "parameters": {
+      "l": 2
+    },
+    "type": "top_l"
+  },
+  "number_of_clusters": 1,
+  "outer_norm": {
+    "parameters": {},
+    "type": "l1"
+  },
+  "version": 1
+}

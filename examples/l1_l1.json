@@ -1,0 +1,29 @@
+{
+  "distance_matrix": {
+    "center_count": 2,
+    "client_count": 2,
+    "layout": "center_major",
+    "values": [
+      [
+        0.0,
+        2.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ]
+  },
+  "format": "cluster-aware-instance",
+  "id": "two-point-l1-l1",
+  "inner_norm": {
+    "parameters": {},
+    "type": "l1"
+  },
+  "number_of_clusters": 1,
+  "outer_norm": {
+    "parameters": {},
+    "type": "l1"
+  },
+  "version": 1
+}

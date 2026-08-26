@@ -1,0 +1,23 @@
+# CMake build trees and generated files
+/build/
+/build-*/
+/cmake-build-*/
+/out/
+/compile_commands.json
+/CMakeUserPresets.json
+
+# Editor and operating-system files
+*.swp
+*.swo
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local project material not published in this repository
+/AGENTS.md
+/benchmarks/
+/docs/
+/instances/
+/results/
